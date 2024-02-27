@@ -1,4 +1,4 @@
-Regular Expressions (Regex) Tutorial ##hassan
+Regular Expressions (Regex) Tutorial #
 
 Welcome to the Regex Tutorial! This guide will introduce you to the basics of regular expressions, a powerful tool for pattern matching and text manipulation.
 
@@ -24,4 +24,4 @@ Regular expressions are a powerful tool for pattern matching and text manipulati
 
 Feel free to experiment with the examples provided and explore more complex regex patterns as you become more comfortable with the syntax and concepts.
 
-Feel free to customize and expand upon this README template to create a comprehensive regex tutorial for your project!
+
